@@ -1,8 +1,8 @@
-Leakage Fashion Landing Page
+KERR Fashion Landing Page
 
 Introduction
 
-Welcome to the Leakage Fashion Landing Page repository! This project is a landing page for Leakage Fashion, a fictional fashion brand, designed to showcase its features, information about the company, and contact details. You can visit the deployed site here.
+Welcome to the KERR Fashion Landing Page repository! This project is a landing page for KERR Fashion, a fictional fashion brand, designed to showcase its features, information about the company, and contact details. You can visit the deployed site here.
 
 For a detailed overview of the project and the development process, check out the final project blog article here.
 
