@@ -28,7 +28,7 @@ Open the index.html file in your web browser.
 
 Deployment link
 
-https://cerulean-moonbeam-6324d6.netlify.app/
+https://leakagegh.github.io/ALX-Landing-Page-project/
 
 Usage
 
